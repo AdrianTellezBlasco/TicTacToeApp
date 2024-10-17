@@ -1,0 +1,11 @@
+body{
+    background-image: url(assets/fondo_rojo.png);
+    background-color: rgb(0, 255, 200);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.boton{
+    width: 10vw;
+    height: 20vh;
+}
